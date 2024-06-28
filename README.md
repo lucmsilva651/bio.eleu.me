@@ -3,6 +3,7 @@
 Name: Lucas Gabriel (aka. eleu/lucmsilva)
 Age: 14 years old
 I live in: Piquete, Sao Paulo, Brazil
+My website: eleu.me
 
 Favorite movie: Tetris (2023)
 Favorite TV series:
@@ -25,3 +26,7 @@ Tech devices:
 I don't know. This is just a thing to say and show some things I do and etc.
 
 You can find me at various places here on the internet, but if you really want to talk with me: do not spam on my DM's or say dumb things for me. You don't wanna the same thing for you, ya?
+## Donate and help
+If you also are a Brazilian and you want to help, leave a tip on my Pix:
+
+**lucmsilva651@gmail.com**
