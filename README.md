@@ -1,4 +1,3 @@
-# Lucas Gabriel (lucmsilva/eleu) biography
 ## The bio itself
 ```
 Name: Lucas Gabriel (aka. eleu/lucmsilva)
