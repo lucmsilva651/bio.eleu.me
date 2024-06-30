@@ -1,5 +1,4 @@
 # My bio
-## Donate and help
 If you also are a Brazilian and you want to help, give me your precious money on my Pix:
 
 **lucmsilva651@gmail.com**
