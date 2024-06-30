@@ -1,8 +1,9 @@
-## Donate and help
-If you also are a Brazilian and you want to help, give me your precious money on my Pix:
+---
+layout: page
+title: My bio
+permalink: /
+---
 
-**lucmsilva651@gmail.com**
-## The bio itself
 ```
 My name: Lucas Gabriel - aka. eleu/lucmsilva
 My age: 14 years old (07/07)
@@ -56,6 +57,11 @@ My skillset (programming and etc.):
 
 For social media, I mostly use Telegram, YouTube and WhatsApp.
 ```
+## Donate and help
+If you also are a Brazilian and you want to help, give me your precious money on my Pix:
+
+**lucmsilva651@gmail.com**
+
 ## Why did this even exist?
 I don't know. This is just a thing to say and show some things I do and etc.
 
