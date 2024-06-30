@@ -3,7 +3,7 @@ layout: page
 title: My bio
 permalink: /
 ---
-
+This is just my bio. Nothing special about it. If you wanna to know more about me, just read it.
 ```
 My name: Lucas Gabriel - aka. eleu/lucmsilva
 My age: 14 years old (07/07)
