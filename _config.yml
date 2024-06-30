@@ -5,7 +5,7 @@ author:
   
 description: >
   This is just my bio. Nothing special about it.
-  If you wanna to know more about me, just read it.
+  If you wanna know more about me, just read it.
   
 remote_theme: jekyll/minima
 plugins:
@@ -17,7 +17,7 @@ minima:
   date_format: "%b-%d-%Y"
   social_links:
     - { platform: facebook,       user_url: "https://www.facebook.com/lucmsilva" }
-    - { platform: github,         user_url: "https://github.com/jekyll/lucmsilva651" }
+    - { platform: github,         user_url: "https://github.com/lucmsilva651" }
     - { platform: instagram,      user_url: "https://www.instagram.com/lucasgabm95" }
     - { platform: telegram,       user_url: "https://t.me/eleupqt" }
     - { platform: x,              user_url: "https://x.com/lucmsilvagg" }
