@@ -13,7 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-  skin: solarized
+  skin: dark
   date_format: "%b-%d-%Y"
   social_links:
     - { platform: facebook,       user_url: "https://www.facebook.com/lucmsilva" }
