@@ -1,3 +1,24 @@
-remote_theme: pages-themes/hacker@v0.2.0
+title: lucmsilva bio
+author:
+  name: Lucas Gabriel
+  email: lucmsilva651@gmail.com
+  
+description: >
+  This is just my bio. Nothing special about it.
+  If you wanna to know more about me, just read it.
+  
+remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: solarized
+  date_format: "%b-%d-%Y"
+  social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/lucmsilva" }
+    - { platform: github,         user_url: "https://github.com/jekyll/lucmsilva651" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/lucasgabm95" }
+    - { platform: telegram,       user_url: "https://t.me/eleupqt" }
+    - { platform: x,              user_url: "https://x.com/lucmsilvagg" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/lucmsilva651" }
