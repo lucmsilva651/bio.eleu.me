@@ -8,53 +8,59 @@ This is just my bio. Nothing special about it. If you wanna to know more about m
 My name: Lucas Gabriel - aka. eleu/lucmsilva
 My age: 14 years old (07/07)
 I live in: Piquete, São Paulo, Brazil
-My website: www.eleu.me
 
 Languages that I speak (in order of skill):
-- Brazilian Portuguese
-- English
-- Spanish
-- Esperanto
- 
-My favorite things:
-- Favorite movie: Tetris (2023)
-- Favorite TV series:
-  - My Little Pony: Friendship is Magic
-  - Star vs. the Forces of Evil
-- Favorite YouTube channels:
-  - Eric Parker
-  - Bringus Studios
-  - Linus Tech Tips
-  - Michael MJD
-  - etc.
-- Favorite games:
-  - Geometry Dash
-  - Them's Fightin' Herds
-  - Sonic the Hedgehog (Genesis)
-  - etc.
-
-My tech devices:
-- Samsung Galaxy S10e
-  - CPU: Samsung Exynos 9820
-  - RAM: 6GB LPDDR4
-  - Storage: 128GB
-  - OS: OneUI 4.1 (Android 12)
-- Lenovo ideapad 330
-  - CPU: Intel Core i3 7020u
-  - RAM: 12GB DDR4
-  - Storage: 240GB SSD + 1TB HDD (not in use)
-  - OS: Windows 10 Home Single Language
+  - Brazilian Portuguese
+  - English
+  - Spanish
+  - Esperanto
 
 My skillset (programming and etc.):
-- Vue (Composite API + TS)
-- HTML, CSS and JS
-- Shell scripts (.bat, .sh, .vbs)
-- Markdown (w/Jekyll)
-- Git (and GitHub)
-- Node.js (+ npm)
-- x86 NASM
-- Python
+  - Vue (Composite API + TS)
+  - HTML, CSS and JS
+  - Shell scripts (.bat, .sh, .vbs)
+  - Markdown (w/Jekyll)
+  - Git (and GitHub)
+  - Node.js (+ npm)
+  - Haskell
+  - x86 NASM
+  - Python
+ 
+My favorite things:
+  - Favorite movie: Tetris (2023)
+  - Favorite TV series:
+    - My Little Pony: Friendship is Magic
+    - Star vs. the Forces of Evil
+  - Favorite YouTube channels:
+    - Eric Parker
+    - Bringus Studios
+    - Linus Tech Tips
+    - Michael MJD
+  - Favorite games:
+    - Geometry Dash
+    - Them's Fightin' Herds
+    - Sonic the Hedgehog (Genesis)
+  - Favorite music styles:
+    - Rock
+    - Chiptune
+    - Dubstep
+    - VGM (OST, rip, etc.)
+  - Favorite phone brand: Samsung
+  - Favorite OS: Windows 10
 
+My tech devices:
+  - Samsung Galaxy S10e
+    - CPU: Samsung Exynos 9820
+    - RAM: 6GB LPDDR4
+    - Storage: 128GB
+    - OS: OneUI 4.1 (Android 12)
+  - Lenovo ideapad 330
+    - CPU: Intel Core i3 7020u
+    - RAM: 12GB DDR4
+    - Storage: 240GB SSD + 1TB HDD (not in use)
+    - OS: Windows 10 Home Single Language
+
+My website: www.eleu.me
 For social media, I mostly use Telegram, YouTube and WhatsApp.
 ```
 ## Donate and help
