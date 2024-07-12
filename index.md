@@ -6,7 +6,7 @@ permalink: /
 This is just my bio. Nothing special about it. If you wanna to know more about me, just read it.
 ```
 My name: Lucas Gabriel - aka. eleu/lucmsilva
-My age: 14 years old (07/07)
+My age: 15 years old
 I live in: Piquete, São Paulo, Brazil
 
 Languages that I speak (in order of skill):
