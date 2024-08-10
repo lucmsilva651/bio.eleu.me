@@ -38,6 +38,7 @@ My favorite things:
     - Michael MJD
   - Favorite games:
     - Geometry Dash
+    - Trackmania Nations Forever
     - Them's Fightin' Herds
     - Sonic the Hedgehog (Genesis)
   - Favorite music styles:
@@ -57,7 +58,7 @@ My tech devices:
   - Lenovo ideapad 330
     - CPU: Intel Core i3 7020u
     - RAM: 12GB DDR4
-    - Storage: 240GB SSD + 1TB HDD (not in use)
+    - Storage: 240GB SSD + 1TB HDD
     - OS: Windows 10 Home Single Language
 
 My website: www.eleu.me
