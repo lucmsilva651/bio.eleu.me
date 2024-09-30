@@ -16,8 +16,9 @@ Languages that I speak (in order of skill):
   - Esperanto
 
 My skillset (programming and etc.):
+  - JavaScript / TypeScript
   - Vue (Composite API + TS)
-  - HTML, CSS and JS
+  - HTML and CSS
   - Shell scripts (.bat, .sh, .vbs)
   - Markdown (w/Jekyll)
   - Git (and GitHub)
@@ -43,23 +44,24 @@ My favorite things:
     - Sonic the Hedgehog (Genesis)
   - Favorite music styles:
     - Rock
+    - Indie
     - Chiptune
-    - Dubstep
+    - Dubstep / EDM
     - VGM (OST, rip, etc.)
   - Favorite phone brand: Samsung
-  - Favorite OS: Windows 10
+  - Favorite desktop OS: Windows 10
 
 My tech devices:
   - Samsung Galaxy S10e
     - CPU: Samsung Exynos 9820
     - RAM: 6GB LPDDR4
     - Storage: 128GB
-    - OS: OneUI 4.1 (Android 12)
+    - OS: ExtremeROM 1.0 (OneUI 6.1, Android 14)
   - Lenovo ideapad 330
     - CPU: Intel Core i3 7020u
     - RAM: 12GB DDR4
-    - Storage: 240GB SSD + 1TB HDD
-    - OS: Windows 10 Home Single Language
+    - Storage: 240GB SSD + 1TB HDD + 320GB HDD
+    - OS: Windows 10 IoT Enterprise LTSC
 
 My website: www.eleu.me
 For social media, I mostly use Telegram, YouTube and WhatsApp.
